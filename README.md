@@ -17,7 +17,7 @@ git init
 # 3. Install dependencies and build Spago cache (only necessary once)
 
 npm install
-npm run spago-build
+npx spago build
 
 # 4. Write some PureScript in src/Main.purs
 
