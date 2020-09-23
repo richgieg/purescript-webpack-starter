@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "webpack -p",
+    "spago-build": "spago build",
     "start": "webpack-dev-server --content-base www --host 0.0.0.0"
   }
 }
